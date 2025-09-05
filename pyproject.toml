@@ -3,7 +3,11 @@ name = "ecomm-prod-assistant"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
+<<<<<<< HEAD
 requires-python = ">=3.10"
+=======
+requires-python = ">=3.11"
+>>>>>>> beff2d1268ed4962fded60f9d5cf2638641a81ac
 dependencies = [
     "fastapi>=0.116.1",
 ]
